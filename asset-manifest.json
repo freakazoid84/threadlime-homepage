@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/threadlime-homepage/static/css/main.1672ae4c.css",
-    "main.js": "/threadlime-homepage/static/js/main.443b4a2b.js",
+    "main.js": "/threadlime-homepage/static/js/main.bbcb443d.js",
     "index.html": "/threadlime-homepage/index.html",
     "main.1672ae4c.css.map": "/threadlime-homepage/static/css/main.1672ae4c.css.map",
-    "main.443b4a2b.js.map": "/threadlime-homepage/static/js/main.443b4a2b.js.map"
+    "main.bbcb443d.js.map": "/threadlime-homepage/static/js/main.bbcb443d.js.map"
   },
   "entrypoints": [
     "static/css/main.1672ae4c.css",
-    "static/js/main.443b4a2b.js"
+    "static/js/main.bbcb443d.js"
   ]
 }
