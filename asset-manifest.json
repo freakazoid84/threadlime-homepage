@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/threadlime-homepage/static/css/main.1ff14b99.css",
+    "main.js": "/threadlime-homepage/static/js/main.184d2a6f.js",
+    "index.html": "/threadlime-homepage/index.html",
+    "main.1ff14b99.css.map": "/threadlime-homepage/static/css/main.1ff14b99.css.map",
+    "main.184d2a6f.js.map": "/threadlime-homepage/static/js/main.184d2a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff14b99.css",
+    "static/js/main.184d2a6f.js"
+  ]
+}
